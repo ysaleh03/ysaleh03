@@ -1,6 +1,6 @@
 Hi, I’m Youssef
 
-1st year science student @ubc
+2nd year computer science student @ubc
 
 Interested in machine learning and user interfaces.
 
