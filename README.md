@@ -1,8 +1,6 @@
-Hi, I’m Youssef
+hi, i’m youssef
 
 2nd year computer science student @ubc
-
-Interested in machine learning and user interfaces.
 
 <!---
 ysaleh03/ysaleh03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
