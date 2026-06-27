@@ -1,3 +1,3 @@
 hi, i’m youssef
 
-5th year computer science hons undergrad @ubc
+prev. computer science hons undergrad @ubc
